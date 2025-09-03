@@ -41,20 +41,10 @@ It includes an interactive dashboard, employee forms with validation, sidebar na
    Runs on http://localhost:3000
 
 ## 📸 Screenshots
-
-### 🖥️ Dashboard
 ![Dashboard Screenshot](assets/dashboard-desktop.png)
-
-### 📂 Sidebar Navigation
 ![Sidebar Screenshot](assets/sidebar-expanded.png)
-
-### 📝 Form with Validation
 ![Form Screenshot](assets/form-validation.png)
-
-### ✅ Logout Confirmation Modal
 ![Logout Screenshot](assets/logout-modal.png)
-
-### 📝 Report page
 ![Report Screenshot](assets/reports-page.png)
 
 ## 🎯 Project Status
