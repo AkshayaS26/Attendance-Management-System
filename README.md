@@ -43,7 +43,7 @@ It includes an interactive dashboard, employee forms with validation, sidebar na
 ## 📸 Screenshots
 
 ### 🖥️ Dashboard
-![Dashboard Screenshot](assets/dashboard-desktop.png)
+![Dashboard Screenshot](assets/desktop-dashboard.png)
 
 ### 📂 Sidebar Navigation
 ![Sidebar Screenshot](assets/sidebar-expanded.png)
