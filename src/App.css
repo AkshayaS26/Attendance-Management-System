@@ -1,0 +1,119 @@
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0; 
+}
+.home,
+.masters,
+.reports,
+.pageaccess,
+.reports,
+.profile,
+.changepassword,
+.logout {
+  display: flex;
+  margin-left: 260px;
+  font-size: 2rem;
+}
+.text-center {
+  text-align: center;
+  color: black;
+  padding-bottom: 60px;
+  margin: auto;
+  font-family: helvetica;
+}
+.text-left{ 
+  font-family: helvetica;
+ }
+
+/*.form-control,.form-select{
+  margin-bottom: 25px;
+}
+*/
+.text-center {
+  margin-bottom: 30px;
+  padding-top: 5px;
+  font-family: helvetica;
+}
+/* .form-control{
+  border: 1px solid black;
+} */
+ /* .form-select .style-input{
+  border: 1px solid black;
+ } */
+
+.page-background .style-input {
+  min-height: 30px;
+  border-radius: 5px;
+  color: rgb(12, 12, 12);
+
+}
+
+.page-background .style-input::placeholder {
+  color: black;
+}
+
+.text {
+  text-decoration: none;
+}
+
+.font {
+  color: white;
+}
+
+.page-background {
+ 
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+ 
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.login-card {
+  background-color:#f1d9ff; /* Light transparent background */
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.2);
+  max-width: 400px; /* Adjust max-width as needed */
+  width: 100%;
+  padding: 40px;
+  box-sizing: border-box;
+  margin: 20px;
+ 
+}
+/* Custom scrollbar styles */
+::-webkit-scrollbar {
+  width: 8px;
+  scrollbar-width: thin;
+  
+}
+
+
+
+::-webkit-scrollbar-thumb {
+  
+
+  border-radius: 10px;
+  border: 2px solid grey;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #D3D3D3;
+}
+
+.required{
+  color: rgb(255, 0, 0);
+}
+/*.logo{
+  background-image: url(../src/pre.jpg);
+  
+}
+*/
+/* borderColor:'green',borderWidth:'3px',borderStyle:'solid' */
+.home{
+  overflow-x: hidden;
+}
